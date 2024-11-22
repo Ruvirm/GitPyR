@@ -1,7 +1,8 @@
 {
     "4e3fa81b-6ee0-42bc-a4e3-b1202c120a57": {
         "commands": [
-            "cmd:echo Hello from CMD"
+            "cmd:echo Hello from CMD",
+            "cmd:pause"
         ]
     },
 }
