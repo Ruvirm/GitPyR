@@ -1,0 +1,8 @@
+{
+    "1": {
+        "commands": ["echo Hello, Server 1!", "ls"]
+    },
+    "2": {
+        "commands": ["echo Hello, Server 2!", "pwd"]
+    }
+}
