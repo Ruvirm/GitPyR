@@ -1,8 +1,9 @@
 {
-    "1": {
-        "commands": ["echo Hello, Server 1!", "ls"]
+    "server-id-1": {
+        "commands": [
+            "powershell:Write-Host 'Hello from PowerShell'",
+            "cmd:echo Hello from CMD",
+            "python:print('Hello from Python')"
+        ]
     },
-    "2": {
-        "commands": ["echo Hello, Server 2!", "pwd"]
-    }
 }
