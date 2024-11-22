@@ -1,9 +1,7 @@
 {
-    "server-id-1": {
+    "4e3fa81b-6ee0-42bc-a4e3-b1202c120a57": {
         "commands": [
-            "powershell:Write-Host 'Hello from PowerShell'",
-            "cmd:echo Hello from CMD",
-            "python:print('Hello from Python')"
+            "cmd:echo Hello from CMD"
         ]
     },
 }
