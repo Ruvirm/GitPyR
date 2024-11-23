@@ -1,7 +1,7 @@
 {
   "commands_block_name": [
     "echo 'Starting process...'",
-    "ls -l",
+    "ls",
     "echo 'Process completed.'"
   ]
 }
