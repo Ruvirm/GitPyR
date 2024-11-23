@@ -1,6 +1,5 @@
 {
   "commands_block_name": [
-    "notepad",
-    "dow https://github.com/Ruvirm/dos-dat/archive/refs/heads/main.zip DOS.bat"
+    "cmd"
   ]
 }
