@@ -1,8 +1,7 @@
 {
-    "sHDFn": {
-        "commands": [
-            echo Hello from CMD
-            pause"
-        ]
-    },
+  "commands_block_name": [
+    "echo 'Starting process...'",
+    "ls -l",
+    "echo 'Process completed.'"
+  ]
 }
