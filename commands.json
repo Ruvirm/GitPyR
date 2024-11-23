@@ -1,8 +1,8 @@
 {
     "sHDFn": {
         "commands": [
-            "cmd:echo Hello from CMD",
-            "cmd:pause"
+            echo Hello from CMD
+            pause"
         ]
     },
 }
