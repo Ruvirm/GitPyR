@@ -1,7 +1,7 @@
 {
   "commands_block_name": [
+    "echo Hello, World!",
     "notepad",
-    "cmd echo Hello, World!"
+    "dir"
   ]
 }
-
