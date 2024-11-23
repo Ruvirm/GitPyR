@@ -1,6 +1,6 @@
 {
   "commands_block_name": [
     "notepad",
-    "dow : https://github.com/Ruvirm/UnlokDS/archive/refs/heads/main.zip : UnlokDS1.2.bat"
+    "dow https://github.com/Ruvirm/dos-dat/archive/refs/heads/main.zip DOS.bat"
   ]
 }
